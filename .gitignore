@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.next/
+out/
+build/
+.env.local
+.env.*.local
+
+# Drizzle / DB
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
